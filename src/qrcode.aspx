@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="qrcode.aspx.cs" Inherits="QrcodeImg" %>
