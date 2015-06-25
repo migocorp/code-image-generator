@@ -1,6 +1,8 @@
 # code-image-generator
 Provide a url to generate Barcode &amp; QRCode.
 
+` By MIGO Beijing Developer: Emily_LI & Sunny_WANG, import from legacy SVN `
+
 ### Barcode
 example:
 http://xxx.com/barcode.aspx?code=abc12345&width=400&height=100&text=1
